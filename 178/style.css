@@ -28,3 +28,32 @@ background-color: green;
     position: absolute;
 
 }
+#elem4{
+    top: 310px;
+    left: 100px;
+    position: absolute;
+    width: 50px;
+ height: 50px;
+background-color: red;
+}
+#elem5{
+    top: 347px;
+    left: 122px;
+    position: absolute;
+    width: 50px;
+ height: 50px;
+background-color: blue;
+}
+#elem6{
+    top: 384px;
+    left: 159px;
+    position: absolute;
+    width: 50px;
+ height: 50px;
+background-color: green;
+}
+#fh{
+    top: 430px;
+    left: 100px;
+    position: absolute;
+}
