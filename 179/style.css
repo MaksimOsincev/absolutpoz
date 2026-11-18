@@ -1,0 +1,40 @@
+#elem1{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    height:  200px;
+    width: 200px;
+    border: 1px solid green;
+}
+#elem2{
+    position: absolute;
+    top: 143px;
+    left: 139px;
+    height:  50px;
+    width: 50px;
+    border: 1px solid red;
+}
+#elem3{
+    position: absolute;
+    top: 400px;
+    left: 100px;
+    height:  200px;
+    width: 200px;
+    background-color: rgb(1, 252, 84);
+}
+#elem4{
+    position: absolute;
+    top: 430px;
+    left: 125px;
+    height:  40px;
+    width: 40px;
+   background-color: white;
+}
+#elem5{
+    position: absolute;
+    top: 530px;
+    left: 235px;
+    height:  40px;
+    width: 40px;
+   background-color: white;
+}
