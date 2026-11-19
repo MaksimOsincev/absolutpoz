@@ -74,3 +74,48 @@
     width: 50px;
     height: 50px;
 }
+#elem7{
+    position: absolute;
+    top: 900px;
+    left: 100px;
+    height:  300px;
+    width: 300px;
+   border-radius:150px;
+   background-color: rgb(101, 255, 126);
+}
+
+#g3 {
+    top: 45px;
+    position: absolute;
+    left: 65px;
+    background-color: white;
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+}
+#g4 {
+    top: 45px;
+    position: absolute;
+    left: 185px;
+    background-color: white;
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+}
+#g5 {
+    top: 115px;
+    position: absolute;
+    left: 130px;    
+    background-color: white;
+    width: 40px;
+    height: 40px;
+}
+#g6 {
+    top: 215px;
+    position: absolute;
+    left: 100px;
+    background-color: white;
+    width: 100px;
+    height: 10px;
+}
+
