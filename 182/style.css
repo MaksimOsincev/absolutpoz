@@ -1,0 +1,8 @@
+#elem{
+    top: 100px;
+    left: 100px;
+    right: 100px;
+    bottom: 100px;
+    border: 1px solid black;
+    position: absolute;
+}
